@@ -22,7 +22,7 @@ Simple WhatsApp Bot
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
 > git clone https://github.com/Mrhafizh21/Botwasapv2
-> cd Botwasapv1
+> cd Botwasapv2
 > npm install
 ```
 ###### Run
